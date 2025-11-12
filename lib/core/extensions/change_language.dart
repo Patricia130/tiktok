@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:ride_on_driver/core/extensions/workspace.dart';
-import 'package:ride_on_driver/core/utils/translate.dart';
+import 'package:tochegando_driver_app/core/extensions/workspace.dart';
+import 'package:tochegando_driver_app/core/utils/translate.dart';
 
 import '../../presentation/cubits/localizations_cubit.dart';
 import '../services/data_store.dart';

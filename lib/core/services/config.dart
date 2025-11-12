@@ -1,10 +1,10 @@
 class Config {
- static const googleKey = "YOUR_GOOGLE_MAPS_API_KEY_HERE";
- static const String oneSiginalAppid = 'YOUR_ONESIGNAL_APP_ID_HERE';
- static const String oneSiginalApiKey = 'YOUR_ONESIGNAL_API_KEY_HERE';
+ static const googleKey = "AIzaSyA7B5kq7O_PG6oADgefnEBlsamllgO4LCQ";
+ static const String oneSiginalAppid = '507bfcb0-c166-4a51-9409-71d02b837c2f';
+ static const String oneSiginalApiKey = 'os_v2_app_kb57zmgbmzffdfajohicxa34f6q4orxdxmhemhmrtpsbhx7agqzz5rtmzflxorxna66yeoqgwsfk7zbccuwizad4v7ifp6oyvaudpeq';
 
 // Temporary base domain URL for setup (please add your final URL here)
- static const String baseDomain = 'https://rideon.unibooker.app';
+ static const String baseDomain = 'https://tochegandodelivery.site';
 // Do not change any code below this line. ==================================================
 
  static const String version = '/api/v1/';

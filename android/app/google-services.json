@@ -1,86 +1,42 @@
 {
   "project_info": {
-    "project_number": "688750971224",
-    "firebase_url": "https://rideon-1a627-default-rtdb.firebaseio.com",
-    "project_id": "rideon-1a627",
-    "storage_bucket": "rideon-1a627.firebasestorage.app"
+    "project_number": "491950036407",
+    "project_id": "to-chegando-motoboy-24b4a",
+    "storage_bucket": "to-chegando-motoboy-24b4a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:688750971224:android:3367e8cbdc64d2508bfd2d",
+        "mobilesdk_app_id": "1:491950036407:android:1b5e5259756c7051034432",
         "android_client_info": {
-          "package_name": "com.sizh.rideon.driver.taxiapp"
+          "package_name": "com.tochegando.motoboy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "688750971224-qsrfg5v75ssh3dp6kh1nrv739jija5uo.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC94QTYXcvsIKbcDgfF5h8Vivp6Ay89Xto"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "688750971224-qsrfg5v75ssh3dp6kh1nrv739jija5uo.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "688750971224-fuv3o15s1h61p0d9ajrgvg177k07nd0j.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sizh.rideon.rider.taxiapp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:688750971224:android:65097ee054f090958bfd2d",
-        "android_client_info": {
-          "package_name": "com.sizh.rideon.rider.taxiapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "688750971224-pfehh7gu8pffd2kkb800m22rbk14vrd5.apps.googleusercontent.com",
+          "client_id": "491950036407-p6qrnm58egnldc11od3fl3a84d4gk7ke.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sizh.rideon.rider.taxiapp",
-            "certificate_hash": "11bbbe077ebc49cc5c933a997a0e9294761c969c"
+            "package_name": "com.tochegando.motoboy",
+            "certificate_hash": "62a27162f16ce01580fb34570e34bdf9602212ad"
           }
         },
         {
-          "client_id": "688750971224-qsrfg5v75ssh3dp6kh1nrv739jija5uo.apps.googleusercontent.com",
+          "client_id": "491950036407-pe7vk4v2nuhrekdn0e8jh4uf72mhn16a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC94QTYXcvsIKbcDgfF5h8Vivp6Ay89Xto"
+          "current_key": "AIzaSyCnA01P92vmjFyT4FivEmoizZlwooE7-YI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "688750971224-qsrfg5v75ssh3dp6kh1nrv739jija5uo.apps.googleusercontent.com",
+              "client_id": "491950036407-pe7vk4v2nuhrekdn0e8jh4uf72mhn16a.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "688750971224-fuv3o15s1h61p0d9ajrgvg177k07nd0j.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sizh.rideon.rider.taxiapp"
-              }
             }
           ]
         }

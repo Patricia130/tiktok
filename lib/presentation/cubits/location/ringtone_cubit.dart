@@ -21,7 +21,7 @@ class RingtoneHelper with WidgetsBindingObserver {
   }
 
   static const MethodChannel _ringtoneChannel =
-  MethodChannel('com.sizh.rideon.driver.taxiapp/ringtone');
+  MethodChannel('com.tochegando.motoboy/ringtone');
   final AudioPlayer _audioPlayer = AudioPlayer();
   Timer? _autoCloseTimer;
   int _remainingSeconds = 50;
