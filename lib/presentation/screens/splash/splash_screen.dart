@@ -37,7 +37,6 @@ class _SplashScreenState extends State<SplashScreen>
   Widget build(BuildContext context) {
     return Stack(
       children: [
-
         Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -55,25 +54,40 @@ class _SplashScreenState extends State<SplashScreen>
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     commonlyUserLogo(),
-                    Text("To Chegando Delivery Entregador".translate(context),style: heading1(context).copyWith(color: Colors.black,fontSize: 25),)
+
+                    /// ❗ REMOVIDO `.translate(context)`
+                    Text(
+                      "To Chegando Delivery Entregador",
+                      style: heading1(context).copyWith(
+                        color: Colors.black,
+                        fontSize: 25,
+                      ),
+                    ),
                   ],
                 ),
               ),
             ],
           ),
         ),
+
         Positioned(
           bottom: 0,
           left: 0,
-          child: SvgPicture.asset("assets/images/vector_bottom.svg",colorFilter: ColorFilter.mode(themeColor, BlendMode.srcIn),),
+          child: SvgPicture.asset(
+            "assets/images/vector_bottom.svg",
+            colorFilter: ColorFilter.mode(themeColor, BlendMode.srcIn),
+          ),
         ),
+
         Positioned(
           top: 0,
           right: 0,
-          child: SvgPicture.asset("assets/images/vector_top.svg",colorFilter: ColorFilter.mode(themeColor, BlendMode.srcIn)),
-        )
+          child: SvgPicture.asset(
+            "assets/images/vector_top.svg",
+            colorFilter: ColorFilter.mode(themeColor, BlendMode.srcIn),
+          ),
+        ),
       ],
     );
-    // );
   }
 }
